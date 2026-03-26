@@ -1,0 +1,2 @@
+# .github
+CloudThing GitHub Organization
