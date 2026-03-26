@@ -9,7 +9,7 @@ Welcome to the official GitHub organization of **CloudThing** (CloudThing-Labs).
 ### Organization Statistics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudThing-Labs&layout=compact&theme=buefy&hide_border=true" /></a>
 </p>
 
 ---
