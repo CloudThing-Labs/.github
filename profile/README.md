@@ -6,6 +6,15 @@ Welcome to the official GitHub organization of **CloudThing** (CloudThing-Labs).
 
 ---
 
+### Organization Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CloudThing-Labs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudThing-Labs&layout=compact&theme=tokyonight&hide_langs_threshold=2.5" />
+</p>
+
+---
+
 ### Connect With Us
 
 We believe in the power of collaboration, reach out for partnerships.
